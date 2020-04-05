@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Triathlon Registration</string>
+    <string name="title">Ironman World\nChampionship Registration</string>
+    <string name="pic">Tirathlon picture</string>
+    <string name="hint">Team Size</string>
+    <string name="btn">Calculate Cost</string>
+    <string name="prompt">Pick a location</string>
+
+    <string-array name="locations">
+        <item>Lake Placid</item>
+        <item>Big Island Hawaii</item>
+        <item>Miami</item>
+    </string-array>
+</resources>
